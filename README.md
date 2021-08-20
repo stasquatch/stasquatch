@@ -4,10 +4,15 @@
 You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack engineer at Flatfile with a slant towards front-end. Previously, I've worked at HashiCorp and CardinalCommerce/Visa. In my previous careers, I worked as a graphic designer, marketer, and copywriter.
 
 **Fast facts:**
+
 🐕 I have a dog named Noodle and I won't hesitate to share pics
+
 👽 I like hearing about ghosts, serial killers, cults, bigfoot, aliens, etc, and can talk about bigfoot theories
+
 🐴 I'm a horse girl; I've ridden on and off for ~13 years
+
 📓 I value structure, order, and efficiency, and strive to balance high quality with pragmatism
+
 😀 I'm an emoji and gif enthusiast
 
 # I’m familiar with
