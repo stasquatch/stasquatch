@@ -42,4 +42,4 @@ When pairing, I'm more comfortable playing Navigator, which probably means I sho
 
 I have a very dry sense of humor, that I try to temper until folks get to know me better, especially in Slack.
 
-I can be a firecracker when it comes to executing new ideas and benefit from having someone keeping me grounded in a sustainable pace.
+I can be a firecracker when it comes to executing new ideas and benefit from having someone to keep me grounded in a sustainable pace.
