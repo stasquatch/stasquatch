@@ -1,6 +1,7 @@
 # About me
 
 **Pronouns**: she/her
+
 You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack engineer at Flatfile with a slant towards front-end. Previously, I've worked at HashiCorp and CardinalCommerce/Visa. In my previous careers, I worked as a graphic designer, marketer, and copywriter.
 
 **Fast facts:**
@@ -40,3 +41,5 @@ When pairing, I'm more comfortable playing Navigator, which probably means I sho
 # Quirks
 
 I have a very dry sense of humor, that I try to temper until folks get to know me better, especially in Slack.
+
+I can be a firecracker when it comes to executing new ideas and benefit from having someone keeping me grounded in a sustainable pace.
