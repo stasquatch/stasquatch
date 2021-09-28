@@ -28,7 +28,7 @@ You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack e
 
 # I’m familiar with
 
-JavaScript is my comfort zone, though I have experience in Ruby/Rails and .NET. Within JavaScript, I use React, Ember, Express, and Nest frameworks/libraries.
+JavaScript is my comfort zone, though I also have experience in Ruby/Rails and C#/.NET. Within JavaScript, I use React, Ember, Express, and Nest frameworks/libraries.
 
 I love writing tests of all kinds and will talk about testing strategy at any time of the day. I have experience writing tests within the Ember ecosystem (unit, integration, and acceptance), React (jest's integration and snapshot), Cypress (e2e), and automated accessibility tests (ember-a11y-testing).
 
@@ -52,4 +52,4 @@ When pairing, I'm more comfortable playing Navigator, which probably means I sho
 
 I have a very dry sense of humor, that I try to temper until folks get to know me better, especially in Slack.
 
-I can be a firecracker when it comes to executing new ideas and benefit from having someone to keep me grounded in a sustainable pace.
+I can be a firecracker when it comes to executing new ideas and I benefit from having someone to keep me grounded in a sustainable pace.
