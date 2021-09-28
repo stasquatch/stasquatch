@@ -8,7 +8,7 @@ You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack e
 
 🐕 I have a dog named Noodle and I won't hesitate to share pics
 
-👽 I like hearing about ghosts, serial killers, cults, bigfoot, aliens, etc, and can talk about bigfoot theories
+👽 I like hearing about ghosts, bigfoot, aliens, etc.
 
 🐴 I'm a horse girl; I've ridden on and off for ~13 years
 
