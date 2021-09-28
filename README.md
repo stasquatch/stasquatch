@@ -32,7 +32,7 @@ JavaScript is my comfort zone, though I also have experience in Ruby/Rails and C
 
 I love writing tests of all kinds and will talk about testing strategy at any time of the day. I have experience writing tests within the Ember ecosystem (unit, integration, and acceptance), React (jest's integration and snapshot), Cypress (e2e), and automated accessibility tests (ember-a11y-testing).
 
-Accessibility is a passion of mine, though I know I have a lot to learn on the subject.
+Accessibility is a passion of mine. I've used tools like axe, Google Lighthouse, and pa11y, along with the JAWS screen reader and manual testing/auditing.
 
 I've also got a lot of opinions and ideas around organizational structure and processes to enable teams to iterate faster and efficiently! I've previously participated in a whole-company Agile transformation and regularly reflect on current processes to ensure all teammates are engaged and being helped, not hampered.
 
