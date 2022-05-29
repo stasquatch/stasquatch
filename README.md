@@ -2,7 +2,7 @@
 
 **Pronouns**: she/her
 
-You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack engineer at Flatfile with a slant towards front-end. Previously, I've worked at HashiCorp and CardinalCommerce/Visa. In my previous careers, I worked as a graphic designer, marketer, and copywriter.
+You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack engineer at LaunchDarkly, contributing to golang and react codebases. Previously, I've worked at HashiCorp and CardinalCommerce/Visa. In my previous careers, I worked as a graphic designer, marketer, and copywriter.
 
 **Fast facts:**
 
