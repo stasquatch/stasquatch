@@ -2,19 +2,7 @@
 
 **Pronouns**: she/her
 
-You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack engineer at LaunchDarkly, contributing to golang and react codebases. Previously, I've worked at HashiCorp and CardinalCommerce/Visa. In my previous careers, I worked as a graphic designer, marketer, and copywriter.
-
-**Fast facts:**
-
-🐕 I have a dog named Noodle and I won't hesitate to share pics
-
-👽 I like hearing about ghosts, bigfoot, aliens, etc.
-
-🐴 I'm a horse girl; I've ridden on and off for ~13 years
-
-📓 I value structure, order, and efficiency, and strive to balance high quality with pragmatism
-
-😀 I'm an emoji and gif enthusiast
+You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack engineer at LaunchDarkly, contributing to Golang and React codebases. Previously, I've worked at HashiCorp and CardinalCommerce/Visa. In my previous careers, I worked as a graphic designer, marketer, and copywriter.
 
 # Values
 
@@ -25,20 +13,6 @@ You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack e
 **Lift as you climb**: Know my teammates' goals. Proactively find opportunities that help my teammates. Share what I learn.
 
 **Be pragmatic**: Be realistic about limitations and deadlines, but strive for the highest quality solution. Balance effort with impact.
-
-# I’m familiar with
-
-JavaScript is my comfort zone, though I also have experience in Ruby/Rails and C#/.NET. Within JavaScript, I use React, Ember, Express, and Nest frameworks/libraries.
-
-I love writing tests of all kinds and will talk about testing strategy at any time of the day. I have experience writing tests within the Ember ecosystem (unit, integration, and acceptance), React (jest's integration and snapshot), Cypress (e2e), and automated accessibility tests (ember-a11y-testing).
-
-Accessibility is a passion of mine. I've used tools like axe, Google Lighthouse, and pa11y, along with the JAWS screen reader and manual testing/auditing.
-
-I've also got a lot of opinions and ideas around organizational structure and processes to enable teams to iterate faster and efficiently! I've previously participated in a whole-company Agile transformation and regularly reflect on current processes to ensure all teammates are engaged and being helped, not hampered.
-
-# I want to learn
-
-I want to continue to be a well-rounded full-stack developer, which means more hands-on backend work and building a better understanding of infrastructure, CI/CD, and dev tooling. Specifically, I'd like to dive into Golang and create a CLI tool in my next side project.
 
 # My working style
 
