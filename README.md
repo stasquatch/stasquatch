@@ -13,17 +13,3 @@ You can call me Stacy, Stace, or Stasquatch. I'm currently a senior full-stack e
 **Lift as you climb**: Know my teammates' goals. Proactively find opportunities that help my teammates. Share what I learn.
 
 **Be pragmatic**: Be realistic about limitations and deadlines, but strive for the highest quality solution. Balance effort with impact.
-
-# My working style
-
-I prefer having one main project/task and one backburner (lower priority) task. That way, when I need a break, I can shift to a different task. In reality, I tend to take on more than I can reasonably handle 😳 .
-
-When I ask for help, I typically am interested in just enough information to get me unblocked so I can continue investigating on my own.
-
-When pairing, I'm more comfortable playing Navigator, which probably means I should Drive more often instead. I'm flexible! Preferably, pairing sessions will be an hour or less, otherwise I can start burning out from social interactions.
-
-# Quirks
-
-I have a very dry sense of humor, that I try to temper until folks get to know me better, especially in Slack.
-
-I can be a firecracker when it comes to executing new ideas and I benefit from having someone to keep me grounded in a sustainable pace.
